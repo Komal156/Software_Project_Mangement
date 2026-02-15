@@ -1,4 +1,1 @@
-# Software_Project_Mangement
-Jira Agile workflow by incorporating GitHub integration.
-#new branch
-komallll
+git commit -m "AS-19 Rate Movies"
