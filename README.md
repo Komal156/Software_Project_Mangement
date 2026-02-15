@@ -1,1 +1,1 @@
-git commit -m "AS-19 Rate Movies"
+AS-19 Rate Movies
